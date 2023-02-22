@@ -2,6 +2,9 @@
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
+## Video demo:
+https://user-images.githubusercontent.com/37214783/220761989-c2745f52-6ccb-4ebf-878b-6b1762071519.mp4
+
 ### Env Variables
 
 Add your config variables values in the config.env file in backend/config
@@ -26,10 +29,6 @@ Use the following commeand to put some dummy products in that database. Run it i
 ```
 npm run seeder
 ```
-
-## Video demo:
-https://user-images.githubusercontent.com/37214783/220761989-c2745f52-6ccb-4ebf-878b-6b1762071519.mp4
-
 
 
 ## Technologies used
