@@ -26,3 +26,36 @@ Use the following commeand to put some dummy products in that database. Run it i
 ```
 npm run seeder
 ```
+
+## Technologies used
+#### Frontend Technologies
+- React
+- React-alert
+- React-alert-template-basic
+- React-Bootstrap
+- React-router-dom
+- React-helmet
+- React-js-pagination
+- React-redux
+- React-stripe-js
+- Redux
+- Redux-devtools-extension
+- Redux-thunk
+- Axios
+- Rc-slider
+- Countries-list
+
+#### Backend Technologies
+- Node.js
+- Express
+- Express-fileupload
+- Bcryptjs
+- Body-parser
+- Cloudinary
+- Cookie-parser
+- Dotenv
+- Jsonwebtoken
+- Mongoose
+- Nodemailer
+- Stripe
+- Validator
